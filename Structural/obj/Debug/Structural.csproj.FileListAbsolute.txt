@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\obj\Debug\Structural.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\obj\Debug\Structural.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\bin\Debug\Structural.dll
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\bin\Debug\Structural.pdb
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\obj\Debug\Structural.dll
+C:\Users\User\Desktop\cplus\DesignPatterns\Structural\obj\Debug\Structural.pdb
